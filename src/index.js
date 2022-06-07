@@ -4,3 +4,4 @@ import { slideLeft, slideRight } from "./slider";
 
 console.log(slideLeft());
 console.log(slideRight());
+console.log(slideRight());
