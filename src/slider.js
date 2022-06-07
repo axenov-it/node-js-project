@@ -1,8 +1,5 @@
 function slider() {
   console.log("hello sliderssss");
-  console.log("hello sliderssss");
-  console.log("hello sliderssss");
-  console.log("hello sliderssss");
 }
 
 export function slideLeft() {
